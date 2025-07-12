@@ -9,5 +9,5 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=vivek-kumar9696&show_icons=true&count_private=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-kumar9696&layout=compact)
