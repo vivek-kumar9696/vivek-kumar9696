@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Vicky Mar
+# 👋 Hi, I'm Vivek Kumar
 
-🎓 Quantum computing, distributed systems, and big data  
-🌱 I’m currently contributing to open-source quantum compilers  
-🧠 Learning systems design and actor-based concurrency  
+🌱 I’m currently working as an RA at University of Pittsburgh. Working on Distributed Quantum Computing and Quantum Networks
 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
@@ -10,4 +8,12 @@
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vivek-kumar9696&show_icons=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-kumar9696&layout=compact)
+<details>
+<summary>Click to see my conference talks</summary>
+
+| Year | Event | Talk |
+|------|-------|------|
+| 2023 | **IEEE QCE** | *Variational Circuits for Quantum Sensing* |
+| 2025 | QHack | *Error-Robust Quantum Networks* |
+
+</details>
