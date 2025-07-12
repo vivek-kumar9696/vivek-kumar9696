@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vivek Kumar
 
 🌱 I’m currently working as an RA at University of Pittsburgh. Working on Distributed Quantum Computing and Quantum Networks
-📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-profile)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vivek-kum-0x94/)
 
 ---
 
@@ -9,11 +9,11 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=vivek-kumar9696&show_icons=true&count_private=true&theme=default)
 <details>
-<summary>Click to see my conference talks</summary>
+<summary>Click to see my published research</summary>
 
-| Year | Event | Talk |
-|------|-------|------|
-| 2023 | **IEEE QCE** | *Variational Circuits for Quantum Sensing* |
-| 2025 | QHack | *Error-Robust Quantum Networks* |
+| Year | Research |
+|------|------|
+| 2023 | [Optimal Entanglement Distillation Policies for Quantum Switches](https://arxiv.org/abs/2305.06804) |
+| 2025 | [Optimal Entanglement Distillation Policies for Bipartite Quantum Switches](//d-scholarship.pitt.edu/45642/) |
 
 </details>
