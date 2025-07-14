@@ -15,6 +15,6 @@
 | Year | Research |
 |------|------|
 | 2023 | [Optimal Entanglement Distillation Policies for Quantum Switches](https://arxiv.org/abs/2305.06804) |
-| 2025 | [Optimal Entanglement Distillation Policies for Bipartite Quantum Switches](//d-scholarship.pitt.edu/45642/) |
+| 2024 | [Optimal Entanglement Distillation Policies for Bipartite Quantum Switches](//d-scholarship.pitt.edu/45642/) |
 
 </details>
