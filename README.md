@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Vivek Kumar
 
-🌱 I’m currently working as an RA at University of Pittsburgh. Working on Distributed Quantum Computing and Quantum Networks
-
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/vivek-kum-0x94/)
 
 ---
